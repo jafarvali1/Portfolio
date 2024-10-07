@@ -2,6 +2,9 @@
 
 This is a portfolio website built with Next.js and Tailwind CSS. It showcases your skills, projects, and achievements in an elegant and responsive design.
 
+## Live Demo
+https://jafarvali1.github.io/portfolio/
+
 ## Installation
 
 1. Clone the repository: `git clone https://github.com/jafarvali1/Portfolio.git`
